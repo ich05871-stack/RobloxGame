@@ -1,0 +1,27 @@
+{
+  "name": "RobloxGame",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "Shared": { "$path": "src/shared" }
+    },
+    "ServerScriptService": {
+      "$className": "ServerScriptService",
+      "Server": { "$path": "src/server" }
+    },
+    "Workspace": {
+      "$className": "Workspace",
+      
+      "Baseplate": {
+        "$className": "Part",
+        "$properties": {
+          "Anchored": true,
+          "Size": [512, 20, 512],
+          "Position": [0, -10, 0],
+          "Color": [0.35, 0.45, 0.3]
+        }
+      }
+    }
+  }
+}
