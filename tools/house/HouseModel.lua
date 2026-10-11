@@ -2,6 +2,7 @@
 -- Haupthaus mit Satteldach und Schornstein, Ziergiebel mit Rundbogentür und Rundfenster,
 -- Garage mit Seitentür, Ecksteine, Regenrinnen und ein Garten mit Bäumen und Büschen.
 -- Lokale Achsen: Vorderseite zeigt nach +Z, von vorne gesehen ist rechts +X, Rasen-Oberkante bei Y = 0.
+-- Wird nicht ins Spiel übertragen: build.sh erzeugt daraus src/workspace/Haus.rbxmx.
 
 local HouseModel = {}
 
