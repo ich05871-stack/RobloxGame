@@ -13,9 +13,6 @@
           "Position": [0, -10, 0],
           "Color": [0.35, 0.45, 0.3]
         }
-      },
-      "Haus": {
-        "$path": "src/workspace/Haus.rbxmx"
       }
     }
   }
